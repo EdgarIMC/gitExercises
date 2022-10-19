@@ -5,7 +5,7 @@ Crea una rama con el nombre 'exercise_tuNombre'
 Crea una carpeta con tu nombre dentro de la carpeta 'Exercises'
 Agrega un archivo 'README' a tu carpeta y pon la siguiente información:
 
- - Nombre completo
+ - Nombre completo: Edgar Millan Castañeda
  - Tiempo de experiencia desarrollo iOS
  - Tiempo trabajando en Baz
 
